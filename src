@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Site básico</title>
+
+    </head>
+    <body>
+        <header>
+            <h1>Minhas Coisas Favoritas</h1>
+        </header>
+        <main>
+            <section id="cima">
+
+                <div id="aj">
+                    <h2>Amendoim Japonês</h2>
+                    <p>O amendoim Japonês é aquele amendoim com casquinha, que é o melhor petisco para comer sentado no sofá, com um café, jogando vídeo game ou vendo alguma série!</p>
+                    <img id="img" height="230px"  src="https://www.pontonatural.com.br/13027-thickbox_default/amendoim-crocante-japones-granel-ponto-natural.jpg">
+                </div>
+
+                <div id="ad">
+                    <h2>Amendoim Doce</h2>
+                    <p>O amendoim Doce é aquele amendoim com uma casquinha de açúcar, que é tão bom que tu vai comendo e nem percebe que já comeu vários!(inclusive eu aprendi a fazer em casa, justamente para fazer vários e comer). </p>
+                    <img id="img" height="230px"  src="https://guiadacozinha.com.br/wp-content/uploads/2023/05/amendoimdocecrocante.jpg">
+                </div>
+
+            </section>
+            <section id="baixo">
+
+                <div id="cf">
+                    <h2>CAFÉ!!</h2>
+                    <p>O café preto pode acompanhar muitas coisas, mas um café preto acompanhado de um amendoim...não tem nada melhor!</p>
+                    <img id="img" height="230px" src="https://static1.minhavida.com.br/articles/d7/a7/f2/f4/um-copo-americano-com-cafe-preto-na-mesa-orig-1.jpg">    
+                </div>
+
+                <div id="pm">
+                    <h2>Pão com margarina</h2>
+                    <p>Um pãozinho puro ou na chapa com margarina é uma delícia, já fui mais feliz comendo pão na chapa com café do que almoçando em muitos lugares.</p>
+                    <img id="img" height="230px" src="https://www.estadao.com.br/resizer/v2/FLB2BHPQYFCKVAYIXWNCGBASEY.jpeg?quality=80&auth=7e8007f04445a27197033b12598a97a1de9a9a3f11ee4dc096618331184a233e&width=1075&height=527&smart=true">   
+                </div>
+                
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy;Lucas Santana Marianni - 2025</p>
+        </footer>
+    </body>
+</html>
