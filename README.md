@@ -15,6 +15,3 @@ O projeto demonstra:
 - Layout responsivo com `flexbox`
 
 ---
-
-## 📂 Estrutura do Projeto
-
